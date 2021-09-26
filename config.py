@@ -6,7 +6,7 @@ https://t.me/BotFather يمكنك جلب التوكن الخاص بالبوت ع
 VERSION = "v2.2.1"
 
 # ضع توكن البوت هنا
-TOKEN = str("")
+TOKEN = str("1993845146:AAHxQIUDW8yWM6iqsZLiI2faZiJfWSCS_8k")
 
 # وضع الفرق بين كل رسالة ورسالة اخرى
 delay = 1 # 1s
